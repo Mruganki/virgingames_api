@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.virgingames.testsuite.BingoTest" skipped="0" tests="1" time="9.5" timestamp="2021-07-29T21:41:58.353+01:00[Europe/London]"><testcase classname="com.virgingames.testsuite.BingoTest" name="Get all live feed and asser start time"/></testsuite>

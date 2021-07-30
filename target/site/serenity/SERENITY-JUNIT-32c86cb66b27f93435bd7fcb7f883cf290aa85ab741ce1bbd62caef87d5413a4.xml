@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.virgingames.testsuite.BingoTest" skipped="0" tests="2" time="5.28" timestamp="2021-07-28T00:35:23.405+01:00[Europe/London]"><testcase classname="com.virgingames.testsuite.BingoTest" name="This will get all bingo games"/><testcase classname="com.virgingames.testsuite.BingoTest" name="Get all live feed and asser start time"><error message="No such property: bingoLobbyInfoResource for class: Script1" type="groovy.lang.MissingPropertyException">No such property: bingoLobbyInfoResource for class: Script1</error><system-err>No such property: bingoLobbyInfoResource for class: Script1&#13;
+Script1.run(Script1.groovy:1)&#13;
+groovy.lang.GroovyShell.evaluate(GroovyShell.java:585)&#13;
+groovy.lang.GroovyShell.evaluate(GroovyShell.java:623)&#13;
+groovy.lang.GroovyShell.evaluate(GroovyShell.java:594)&#13;
+io.restassured.internal.path.json.JSONAssertion.eval(JSONAssertion.groovy:80)&#13;
+io.restassured.internal.path.json.JSONAssertion.getAsJsonObject(JSONAssertion.groovy:46)&#13;
+io.restassured.internal.path.json.JSONAssertion.getResult(JSONAssertion.groovy:28)&#13;
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)&#13;
+io.restassured.path.json.JsonPath.getLong(JsonPath.java:331)&#13;
+com.virgingames.testsuite.BingoTest.getAllLiveFeedAndAsserStartTime(BingoTest.java:38)&#13;
+</system-err></testcase></testsuite>
